@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\obj\Debug\ConsoleAppCSharpDemoInheritance.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\obj\Debug\ConsoleAppCSharpDemoInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\bin\Debug\ConsoleAppCSharpDemoInheritance.exe.config
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\bin\Debug\ConsoleAppCSharpDemoInheritance.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\bin\Debug\ConsoleAppCSharpDemoInheritance.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\obj\Debug\ConsoleAppCSharpDemoInheritance.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInheritance\ConsoleAppCSharpDemoInheritance\obj\Debug\ConsoleAppCSharpDemoInheritance.pdb
